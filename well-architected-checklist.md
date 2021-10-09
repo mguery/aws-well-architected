@@ -319,6 +319,7 @@ Preparation is critical to timely and effective investigation, response to, and 
 
 - [Best practices, Well-architected audits, account setup](https://github.com/mguery/aws-well-architected)
 - [AWS Well-Architected Framework – Five Pillars](https://tutorialsdojo.com/aws-well-architected-framework-five-pillars)
+- [AWS Well-Architected Framework - Map](https://wa.aws.amazon.com/wat.map.en.html)
 - [AWS Well-Architected Framework - PDF](https://docs.aws.amazon.com/wellarchitected/latest/framework/wellarchitected-framework.pdf)
 - [Well-Architected Framework - List of Considerations (Google Docs)](https://docs.google.com/document/d/1af6aLecK1I3hpzxWBQ6sfo7xMeyCrp-rVDWpZ7tKo7A)
 - [Well-Architected Framework - List of Considerations (GitHub Markdown)](https://github.com/mguery/aws-well-architected/blob/main/waf-considerations.md)
