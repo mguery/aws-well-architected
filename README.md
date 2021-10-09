@@ -11,6 +11,7 @@ Resources (Startups and new accounts)
 - [AWS Activate program](https://aws.amazon.com/activate/) Build and scale with up to $100,000 in AWS Activate credits 
 - [Build on AWS for Startups](https://youtu.be/Gql3wNTL5TU)
 - [Production Readiness Checklist](https://gruntwork.io/devops-checklist)
+- [Well-Architected Framework](https://github.com/mguery/aws-well-architected/blob/main/well-architected-checklist.md)
 
 
 ## How to set up AWS account
