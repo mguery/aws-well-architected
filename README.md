@@ -5,6 +5,7 @@ Best practices, Well-architected audits, account setup.
 Resources (Startups and new accounts)
 
 - [Get Started with AWS](https://getstarted.awsworkshop.io/00-intro.html)
+- [AWS Fundamentals - Core Concepts](https://aws.amazon.com/getting-started/fundamentals-core-concepts)
 - [AWS for Startups](https://youtu.be/U3VSJhaC4kc)
 - [AWS Well-Architected for Startups ](https://www.youtube.com/watch?v=GhTC-pMgOjc&list=PLhr1KZpdzukdc8hT9hCF8hwfWkYAX-frO)
 - [AWS for Startups: 5 Practical Tips for Small Businesses Building on AWS](https://www.lastweekinaws.com/blog/aws-for-startups-5-practical-tips-for-small-businesses-building-on-aws)
