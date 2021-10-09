@@ -10,6 +10,7 @@ Resources (Startups and new accounts)
 - [AWS for Startups: 5 Practical Tips for Small Businesses Building on AWS](https://www.lastweekinaws.com/blog/aws-for-startups-5-practical-tips-for-small-businesses-building-on-aws)
 - [AWS Activate program](https://aws.amazon.com/activate/) Build and scale with up to $100,000 in AWS Activate credits 
 - [Build on AWS for Startups](https://youtu.be/Gql3wNTL5TU)
+- [Production Readiness Checklist](https://gruntwork.io/devops-checklist)
 
 
 ## How to set up AWS account
