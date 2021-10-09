@@ -36,3 +36,10 @@ distance using AWS Systems Manager automation documents and Run Command.
 2. Make sure that someone is notified to take action on critical findings - Begin with GuardDuty findings. Turn on GuardDuty
 and ensure that someone with the ability to take action receives the notifications. Automatically creating trouble tickets is the best way to ensure that GuardDuty findings are integrated with your operational processes.
 3. Practice responding to events - Simulate and practice incident response by running regular game days, incorporating the lessons learned into your incident management plans, and continuously improving them.
+
+
+---
+
+Resources
+
+- [How to audit and secure an AWS account](https://acloudguru.com/blog/engineering/how-to-audit-and-secure-an-aws-account)
